@@ -1,0 +1,245 @@
+{
+  "greeting": "About",
+  "description": {
+    "line1": {
+      "line" : "About",
+      "line1" : "Solutions",
+      "line2" : "Consulting",
+      "line3" : "Our Process",
+      "line4" : "Industries",
+      "line5" : "Let’s Connect"
+    },
+    "line2" : {
+      "head" : "A Tech Lab, transforming today to redefine tomorrow.",
+      "sub1":"Speed Matters.",
+      "sub2" : "Automate or stagnate.",
+      "sub3" : "Act now to stay ahead.",
+      "SubTwo" : {
+        "One" : "A 1-second",
+        "Two" : "website",
+        "Three" : "delay leads",
+        "Four" : "to a",
+        "Five" : "drop in",
+        "Six" : "conversions;",
+        "Seven" : "optimize for",
+        "Eight" : "success."
+      },
+      "Subthree" : {
+        "One" : "A",
+        "Two" : "error",
+        "Three" : "reduction ",
+        "Four" : "beckons those",
+        "Five" : "who prioritize ",
+        "Six" : "automation;;",
+        "Seven" : "act now."
+      },
+      "SubFour" : {
+        "One" : "Adopting",
+        "Two" : "technology",
+        "Three" : "boosts",
+        "Four" : "efficiency by "
+      }
+      
+    },
+    "line3" : {
+      "head1" : "W",
+      "Question1" : "ho We Are?",
+        "inner1" : {
+          "one" : "Tech enthusiasts at New Tab Tech Lab, blend",
+          "two" : "creativity",
+          "three" : "and",
+          "four" : "expertise",
+          "five" : "for",
+          "six" : "unmatched results."
+        },
+      "head2" : "W",
+      "Question2" : "hat We Do?",
+        "inner2" : {
+          "one" : "Explore",
+          "two" : "cutting-edge solutions",
+          "three" : "tailored for ideas still sitting on paper, startups, and enterprises."
+        },
+      "head3" : "W",
+      "Question3" : "hy Choose Us?",
+        "inner3" : {
+          "one" : "Innovate with future-forward solutions,",
+          "two" : "customer-centric approach,",
+          "three" : "proven expertise, scalability, and collaborative success."
+        },
+      "head4" : "W",
+      "Question4" : "here We Operate?",
+        "inner4" : {
+          "one" : "Based (You know? Technology has no location) in",
+          "two" : "India,",
+          "three" : "we serve clients globally,",
+          "four" : "impacting industries worldwide."
+        },
+      "head5" : "W",
+      "Question5" : "hen to Engage?",
+        "inner5" : {
+          "one" : "Now is the time;",
+          "two" : "we are ready to collaborate on new or existing projects globally."
+        },
+      "head6" : "H",
+      "Question6" : "ow We Work?",
+        "inner6" : {
+          "one" : "Transparent, collaborative, and efficient - we ensure a",
+          "two" : "seamless experience",
+          "three" : "from ",
+          "four" : "consultation to delivery."
+        }
+    },
+    "line4" : {
+      "Head" : "Solutions",
+      "headsub" : "Techcrafted Solutions for Your Every Challenge.",
+      "sol" : {
+        "one" : "UI-UX Design",
+        "two" : "Software Development",
+        "three" : "Mobile App Development",
+        "four" : "Web App Development",
+        "five" : "Enterprise resource planning",
+        "six" : "customer relationship management"
+      },
+      "learn" : "Learn More"
+    },
+    "line5" : {
+      "Head" : "Industries",
+      "headsub" : "Unleashing Innovation at Every Click!",
+      "sol" : {
+        "one" : "Are you an idea-stage entrepreneur with your brilliant concept on a crumpled piece of paper?",
+        "two" : "Are you navigating the initial years of your organization?",
+        "three" : "Are you a legacy company seeking Digital Transformation?"
+      },
+      "learn" : "Talk To Us"
+    },
+    "line6" : {
+      "Head" : "Our Brands",
+      "headsub" : "Our lab of innovation tested through three compelling brands.",
+      "learn" : "Let's connect"
+    },
+    "About" : {
+      "head" : "About us",
+      "sub1" : "Once upon a upon-a digital landscape, New Tab Tech Lab emerged as a beacon of innovation.",
+      "sub2" : "Picture this: a team of technology enthusiasts on a mission to weave magic into businesses worldwide.",
+      "sub3" : "With our trusty tools, unwavering knowledge and boundless creativity, we journeyed to transform the ordinary into extraordinary. Together, we rewrite the story of success, chapter by chapter. Join us in this tale of technological marvels, where every click opens a door to a world where dreams meet reality. New Tab Tech Lab – where your story becomes tech-extraordinary.",
+      "sub4" : "Our brands",
+      "sub5" : "Our lab of innovation tested through three compelling brands.",
+      "sub6" : "Ignite a global connection with cutting-edge tech solutions that transcend boundaries, fostering seamless collaboration and growth.",
+      "sub7" : "Ignite a global connection with cutting-edge tech solutions that transcend boundaries, fostering seamless collaboration and growth.",
+      "sub8" : "Where branding becomes an art. Wykonane, our creative haven, transforms identities into captivating stories, setting the stage for brands to shine.",
+      "sub9" : "“Dive into the chapters of our story - each brand is a testament to our commitment to rewriting the narrative of tech evolution.”"
+    },
+    "Solution" : {
+      "head" : "Solutions",
+      "sub1" : "Techcrafted Solutions for Your Every Challenge.",
+      "sub2" : "UI-UX Design",
+      "sub3" : "Elevate user experiences with our sleek designs. From pixel perfection to seamless interactions, we craft digital masterpieces.",
+      "sub4" : "“Designing Tomorrow's User Joy.”",
+      "sub5" : "Software Development",
+      "sub6" : "Code that transforms ideas into powerful solutions. We turn your vision into reality, one line at a time",
+      "sub7" : "“Where Code Sparks Innovation“",
+      "sub8" : "Mobile App Development",
+      "sub9" : "Your app, our expertise. From concept to launch, we make mobile magic happen.",
+      "sub10" : "“Apps That Amaze, Every Phase.“",
+      "sub11" : "Web App Development",
+      "sub12" : "Web solutions tailored for you. We build webapps that are as unique as your business.",
+      "sub13" : "“Webapps, Wonders, Yours to Explore.“",
+      "sub14" : "Enterprise resource planning",
+      "sub15" : "Streamline your business operations with our ERP expertise. Efficiency is redefined, and success is guaranteed",
+      "sub16" : "“ERP Excellence, Empowering Success.“",
+      "sub17" : "customer relationship management",
+      "sub18" : "Customer relationships that last. Our CRM solutions keep you connected and customers delighted.",
+      "sub19" : "“Connecting Hearts, CRM Crafted for You.“",
+      "sub20" : "See Our Process"
+    },
+    "Consulting" : {
+      "head" : "Consulting",
+      "sub1" : "Navigate the tech landscape with expert guidance. Your success is our mission.",
+      "sub2" : "Digital Business Strategy",
+      "sub3" : "Reimagine your future with our digital business strategies. From innovative platforms to analytics-driven marketing, we craft strategies that redefine success.",
+      "sub4" : "“Navigating Digital Horizons, Igniting Impact.”",
+      "sub5" : "Operations Strategy",
+      "sub6" : "Elevate your enterprise with our strategic touch. We transform core operations for heightened productivity, efficiency, and sustainability. Partner with us for a strategic overhaul.",
+      "sub7" : "“Transforming Operations, Sustaining Excellence.“",
+      "sub8" : "Technology & Data Strategy",
+      "sub9" : "Unleash the power of technology, data, and market insights with our strategies. Modernize systems, drive agility, and make a real impact on your business.",
+      "sub10" : "“Innovation in Strategy, Transformation in Impact.“",
+      "sub11" : "See Our Process"
+    },
+    "Industries" : {
+      "head" : "Unleashing Innovation at Every Click!",
+      "sub1" : "Are you an idea-stage entrepreneur with your brilliant concept on a crumpled piece of paper?",
+      "sub2" : "“From Spark to Soar: Your Tech Odyssey Starts Here!”",
+      "sub3" : "Transform your ideas into tech wonders with New Tab Tech Lab. Our innovation catalysts work with idea-stage entrepreneurs, offering ideation workshops and rapid prototyping to turn your sparks into a blazing success story.",
+      "sub4" : "Are you navigating the initial years of your organization?",
+      "sub5" : "“Building Tomorrow, Today.“",
+      "sub6" : "Embark on your organizational journey with New Tab Tech Lab. Our tech architects blend creativity and functionality to provide a foundation that aligns with your organizational ethos, ready to build tomorrow, today.",
+      "sub7" : "Are you a legacy company seeking Digital Transformation?",
+      "sub8" : "“Revolutionize, Digitize, Thrive.“",
+      "sub9" : "Elevate your business with New Tab Tech Lab's transformative tech strategies. Seamlessly integrate cutting-edge technologies, streamline operations, and enhance customer experiences. Revolutionize, digitize, and thrive with us!",
+      "sub10" : "Industries",
+      "indus1" : "Retail",
+      "indus2" : "FMCG",
+      "indus3" : "Healthcare",
+      "indus4" : "Manufacturing",
+      "indus5" : "Law Firms",
+      "indus6" : "E-commerce",
+      "indus7" : "Consumer Durables",
+      "indus8" : "Agriculture",
+      "indus9" : "F&B (Food and beverage )",
+      "indus10" : "Auditing Firms",
+      "indus11" : "Fashion",
+      "indus12" : "HORECA",
+      "indus13" : "Real Estate",
+      "indus14" : "Education and Training",
+      "indus15" : "Textile",
+      "indus16" : "Hospitality",
+      "indus17" : "Gems and Jewellery",
+      "indus18" : "Tourism"
+    },
+    "footer" : {
+      "foo1" : "India - English",
+      "foo2" : "Contact",
+      "foo3" : "Explore",
+      "foo4" : "About",
+      "foo5" : "Career",
+      "foo6" : "Consulting",
+      "foo7" : "Industry",
+      "foo8" : "Solutions",
+      "foo9" : "Our Process",
+      "foo10" : "Follow Us",
+      "foo11" : "Facebook",
+      "foo12" : "Instagram",
+      "foo13" : "Instagram",
+      "foo14" : "© 2024 NEW TAB TECH LAB PRIVATE LIMITED",
+      "foo15" : "Sitemap"
+    },
+    "contact" : {
+      "one" : "Let's connect",
+      "Two" : "Email Id",
+      "three" : "Phone Number",
+      "four" : "Registered Address",
+      "five" : "Name",
+      "six" : "Company",
+      "seven" : "Designation",
+      "eight" : "Industry",
+      "nine" : "Email",
+      "ten" : "Phone",
+      "eleven" : "Country",
+      "twell" : "State/Province ",
+      "thirte" : "Pin code/zip code",
+      "fout" : "Message",
+      "fifte" : "Submit"
+    },
+    "process" : {
+      "one" : "Our Process : For Solutions",
+      "two" : "Your Journey, Our Expertise: Seamless from Start to Finish",
+      "three" : "Our Process : For Solutions",
+      "four" : "Embark on this transformative journey with us, where 'Navigating Digital Horizons, Igniting Impact' is not just a tagline but a promise delivered through meticulous analysis, strategic planning, and dynamic implementation."
+    }
+  
+  
+  
+
+  }
+}

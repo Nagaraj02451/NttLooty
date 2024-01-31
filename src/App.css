@@ -1,0 +1,51 @@
+@font-face {
+  font-family: Regular;
+  src: url("../public/Cera/Cera-Regular.ttf");
+}
+@font-face {
+  font-family: Bold;
+  src: url("../public/Cera/Cera-Bold.ttf");
+}
+@font-face {
+  font-family: Light;
+  src: url("../public/Cera/Cera-Light.ttf");
+}
+@font-face {
+  font-family: Medium;
+  src: url("../public/Cera/Cera-Medium.ttf");
+}
+@font-face {
+  font-family: Light;
+  src: url("../public/Cera/Cera-Medium.ttf");
+}
+@font-face {
+  font-family: Thin;
+  src: url("../public/Cera/Cera-Thin.ttf");
+}
+@font-face {
+  font-family: BlackF;
+  src: url("../public/Cera/Cera-Black.ttf");
+}
+a{
+  text-decoration: none;
+  color: #1a1a1a;
+}
+a:hover{
+  color: #0A71FE;;
+}
+
+.Headerdiv::before{
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 72vh;
+  opacity: 0.05;
+  z-index: -9999;
+  background-image: url('../public//images/layer.png');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}

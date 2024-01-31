@@ -1,0 +1,223 @@
+.Mainabout{
+    margin-top: 100px;
+}
+.ghj{
+    display: flex;
+}
+.divin{
+    color: #2D3133;
+text-align: center;
+font-family: Regular;
+font-size: 42px;
+font-style: normal;
+font-weight: 500;
+line-height: 47px; 
+}
+.lineabout{
+    width: 1px;
+height: 130px;
+background: #2D3133;
+}
+.aboutimage{
+    width: 263.16px;
+height: 33.8px;
+}
+.aboutimage img{
+    width: 100%;
+    height: 100%;
+}
+.aboutimahe2{
+    width: 22vh;
+height: 30.005px;
+}
+.aboutimahe2 img{
+    width: 100%;
+    height: 100%;
+}
+.aboutimage3{
+    width: 171.72px;
+height: 30.768px;
+}
+.aboutimage3 img{
+    width: 100%;
+    height: 100%;
+}
+.aboutbrand{
+    width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   /* border: 1px solid yellow; */
+}
+.cghfg{
+    width: 70%;
+    /* border: 1px solid red; */
+}
+.vghb{
+    /* border: 1px solid red; */
+    width: 32%;
+    /* width: 33.3; */
+    /* margin-left: 20px; */
+}
+.tdfg{
+    width: 36%;
+    /* border: 1px solid green; */
+    border-left:1px solid #2D3133 ;
+    border-right: 1px solid #2D3133;
+    display: flex;
+    justify-content: center;
+}
+.hggyfug{
+    width: 70%;
+    /* border: 1px solid yellow; */
+}
+.sahgrfset{
+    /* border: 1px solid red; */
+    width: 32%;
+    display: flex;
+    justify-content: flex-end;
+}
+.aboutus{
+    color: #0A71FE;
+font-family: Light;
+font-size: 57px;
+font-style: normal;
+font-weight: 500;
+line-height: 57px; /* 100% */
+}
+.abouonce{
+    color: #000;
+font-family: Regular;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.brandAbout{
+    color: #000;
+font-family: Light;
+font-size: 42px;
+font-style: normal;
+font-weight: 500;
+line-height: 42px; 
+}
+.sideabout{
+    color: #2D3133;
+font-family: Regular;
+font-size: 17.56px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px; 
+}
+@media (max-width:1200px) {
+    .aboutimage{
+        height: 28px;
+        width: 80%;
+    }
+    .aboutimahe2{
+        height: 28px;
+        width: 80%;
+    }
+    .aboutimage3{
+        height: 28px;
+        width: 80%;
+    }
+}
+@media (max-width : 700px) {
+    .brandAbout{
+        color: #000;
+        font-family: Light;
+        font-size: 29px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 29px;
+    }
+   .abouonce{
+    color: #000;
+font-family: Regular;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+   }
+    .aboutus{
+        line-height: 32px;
+        /* margin-top: 80px; */
+        font-size: 29px;
+    }
+    .aboutbrand{
+        display: inline;
+    }
+    .aboutimage{
+        width: 50%;
+        margin-top: 30px;
+    }
+    .aboutimahe2{
+        width: 50%;
+        margin-top: 30px;
+    }
+    .aboutimage3{
+        margin-top: 30px;
+        width: 50%;
+    }
+    .vghb{
+        width: 100%;
+    border-bottom:1px solid #2D3133 ;
+
+    }
+    .hggyfug{
+        width: 100%;
+    border-bottom:1px solid #2D3133 ;
+
+    }
+    .tdfg{
+        width: 100%;
+        border-left:none ;
+        border-right: none;
+        display: inline;
+    }
+    .sahgrfset{
+        display: inline;
+    }
+    .Mainabout{
+        margin-top: 40px;
+    }
+    .cghfg{
+        width: 100%;
+        /* border: 1px solid red; */
+    }
+    .sideabout{
+        color: #2D3133;
+font-family: Regular;
+font-size: 17.56px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+    }
+    .divin{
+        color: #2D3133;
+        text-align: center;
+        font-family: Regular;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 35px; 
+    }
+ 
+}
+@media (max-width : 400px) {
+
+
+    .aboutimage{
+        width: 70%;
+
+    }
+    .aboutimahe2{
+        width: 70%;
+
+    }
+    .aboutimage3{
+        width: 60%;
+    }
+
+}

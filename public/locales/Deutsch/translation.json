@@ -1,0 +1,243 @@
+{
+  "greeting": "Um",
+  "description": {
+    "line1": {
+      "line" : "Um",
+      "line1" : "Lösungen",
+      "line2" : "Beratung",
+      "line3" : "Unser Prozess",
+      "line4" : "Branchen",
+      "line5" : "Lassen Sie uns verbinden"
+    },
+    "line2" : {
+      "head" : "Ein Tech Lab, das heute transformiert, um morgen neu zu definieren.",
+      "sub1":"Geschwindigkeit zählt.",
+      "sub2" : "Automatisieren oder stagnieren.",
+      "sub3" : "Handeln Sie jetzt, um an der Spitze zu bleiben.",
+      "SubTwo" : {
+        "One" : "Eine 1-Sekunde",
+        "Two" : "Webseite",
+        "Three" : "Verzögerung führt",
+        "Four" : "zu einem",
+        "Five" : "vorbeikommen",
+        "Six" : "Konvertierungen;",
+        "Seven" : "optimieren für",
+        "Eight" : "Erfolg."
+      },
+      "Subthree" : {
+        "One" : "Eine",
+        "Two" : "Fehler",
+        "Three" : "die Ermäßigung ",
+        "Four" : "winkt denen",
+        "Five" : "die Prioritäten setzen ",
+        "Six" : "Automatisierung;",
+        "Seven" : "Handel jetzt."
+      },
+      "SubFour" : {
+        "One" : "Adoptieren",
+        "Two" : "Technologie",
+        "Three" : "steigert",
+        "Four" : "Effizienz durch"
+      }
+    },
+    "line3" : {
+      "head1" : "W",
+      "Question1" : "er wir sind?",
+        "inner1" : {
+          "one" : "Technikbegeisterte im New Tab Tech Lab, gemischt",
+          "two" : "Kreativität",
+          "three" : "Und",
+          "four" : "Sachverstand",
+          "five" : "für",
+          "six" : "unübertroffene Ergebnisse."
+        },
+      "head2" : "W",
+      "Question2" : "as wir tun?",
+        "inner2" : {
+          "one" : "Erkunden",
+          "two" : "modernste Lösungen",
+          "three" : "zugeschnitten auf Ideen, die noch auf dem Papier liegen, Start-ups und Unternehmen."
+        },
+      "head3" : "W",
+      "Question3" : "arum uns wählen?",
+        "inner3" : {
+          "one" : "Schaffen Sie Innovationen mit zukunftsweisenden Lösungen,",
+          "two" : "kundenzentrierter Ansatz,",
+          "three" : "bewährte Fachkompetenz, Skalierbarkeit und gemeinsamer Erfolg."
+        },
+      "head4" : "W",
+      "Question4" : "o sind wir tätig?",
+        "inner4" : {
+          "one" : "Basierend (Wissen Sie? Technologie hat keinen Standort) in",
+          "two" : "Indien,",
+          "three" : "wir betreuen Kunden weltweit,",
+          "four" : "Auswirkungen auf Branchen weltweit."
+        },
+      "head5" : "W",
+      "Question5" : "ann sollte man sich engagieren?",
+        "inner5" : {
+          "one" : "Jetzt ist die Zeit;",
+          "two" : "Wir sind bereit, weltweit an neuen oder bestehenden Projekten zusammenzuarbeiten."
+        },
+      "head6" : "W",
+      "Question6" : "ie wir arbeiten?",
+        "inner6" : {
+          "one" : "Transparent, kooperativ und effizient – ​​wir sorgen für eine",
+          "two" : "nahtloses Erlebnis",
+          "three" : "aus ",
+          "four" : "Beratung bis zur Lieferung."
+        }
+    },
+    "line4" : {
+      "Head" : "Lösungen",
+      "headsub" : "Technisch entwickelte Lösungen für jede Ihrer Herausforderungen.",
+      "sol" : {
+        "one" : "UI-UX Design",
+        "two" : "Software-Entwicklung",
+        "three" : "Entwicklung mobiler Apps",
+        "four" : "Web-App-Entwicklung",
+        "five" : "Unternehmensressourcenplanung",
+        "six" : "Kundenbeziehungsmanagement"
+      },
+      "learn" : "Erfahren Sie mehr"
+    },
+    "line5" : {
+      "Head" : "Branchen",
+      "headsub" : "Mit jedem Klick Innovationen freisetzen!",
+      "sol" : {
+        "one" : "Sind Sie ein Unternehmer in der Ideenphase und haben Ihr brillantes Konzept auf einem zerknitterten Blatt Papier?",
+        "two" : "Navigieren Sie durch die ersten Jahre Ihrer Organisation?",
+        "three" : "Sind Sie ein Traditionsunternehmen, das eine digitale Transformation anstrebt?"
+      },
+      "learn" : "Rede mit uns"
+    },
+    "line6" : {
+      "Head" : "Unsere Marken",
+      "headsub" : "Unser Innovationslabor wurde anhand von drei überzeugenden Marken getestet.",
+      "learn" : "Lassen Sie uns verbinden"
+    },
+
+    "About" : {
+      "head" : "Über uns",
+      "sub1" : "Es war einmal eine digitale Landschaft, das New Tab Tech Lab entwickelte sich zu einem Leuchtturm der Innovation.",
+      "sub2" : "Stellen Sie sich Folgendes vor: ein Team von Technologiebegeisterten mit der Mission, Magie in Unternehmen auf der ganzen Welt zu integrieren.",
+      "sub3" : "Mit unseren zuverlässigen Werkzeugen, unserem unerschütterlichen Wissen und unserer grenzenlosen Kreativität haben wir uns auf den Weg gemacht, das Gewöhnliche in Außergewöhnliches zu verwandeln. Gemeinsam schreiben wir die Erfolgsgeschichte Kapitel für Kapitel neu. Begleiten Sie uns in dieser Geschichte technologischer Wunder, in der jeder Klick eine Tür zu einer Welt öffnet, in der Träume auf Realität treffen. Neues Tab Tech Lab – wo Ihre Geschichte technisch außergewöhnlich wird.",
+      "sub4" : "Unsere Marken",
+      "sub5" : "Unser Innovationslabor wurde anhand von drei überzeugenden Marken getestet.",
+      "sub6" : "Entfachen Sie eine globale Verbindung mit hochmodernen Technologielösungen, die Grenzen überwinden und eine nahtlose Zusammenarbeit und Wachstum fördern.",
+      "sub7" : "Entfachen Sie eine globale Verbindung mit hochmodernen Technologielösungen, die Grenzen überwinden und eine nahtlose Zusammenarbeit und Wachstum fördern.",
+      "sub8" : "Wo Branding zur Kunst wird. Wykonane, unser kreativer Zufluchtsort, verwandelt Identitäten in fesselnde Geschichten und bereitet die Bühne für den Glanz von Marken.",
+      "sub9" : "“Tauchen Sie ein in die Kapitel unserer Geschichte – jede Marke ist ein Beweis für unser Engagement, die Erzählung der technischen Evolution neu zu schreiben.“"
+    },
+    "Solution" : {
+      "head" : "Lösungen",
+      "sub1" : "Technisch entwickelte Lösungen für jede Ihrer Herausforderungen.",
+      "sub2" : "UI-UX Design",
+      "sub3" : "Steigern Sie das Benutzererlebnis mit unseren eleganten Designs. Von Pixelperfektion bis hin zu nahtlosen Interaktionen schaffen wir digitale Meisterwerke.",
+      "sub4" : "“Die Benutzerfreude von morgen gestalten.“",
+      "sub5" : "Software-Entwicklung",
+      "sub6" : "Code, der Ideen in leistungsstarke Lösungen umwandelt. Wir setzen Ihre Vision Zeile für Zeile in die Realität um",
+      "sub7" : "“Wo Code Innovationen auslöst“",
+      "sub8" : "Entwicklung mobiler Apps",
+      "sub9" : "Ihre App, unsere Expertise. Vom Konzept bis zur Markteinführung verwirklichen wir mobile Magie.",
+      "sub10" : "“Apps, die in jeder Phase verblüffen.“",
+      "sub11" : "Web-App-Entwicklung",
+      "sub12" : "Auf Sie zugeschnittene Weblösungen. Wir erstellen Webanwendungen, die so einzigartig sind wie Ihr Unternehmen.",
+      "sub13" : "“Webapps, Wunder, die es zu erkunden gilt.“",
+      "sub14" : "Unternehmensressourcenplanung",
+      "sub15" : "Optimieren Sie Ihre Geschäftsabläufe mit unserer ERP-Expertise. Effizienz wird neu definiert und der Erfolg ist garantiert",
+      "sub16" : "“ERP-Exzellenz, die zum Erfolg führt.“",
+      "sub17" : "Kundenbeziehungsmanagement",
+      "sub18" : "Kundenbeziehungen, die Bestand haben. Unsere CRM-Lösungen sorgen dafür, dass Sie in Verbindung bleiben und Ihre Kunden zufrieden sind.",
+      "sub19" : "“Connecting Hearts, CRM, speziell für Sie entwickelt.“",
+      "sub20" : "Sehen Sie sich unseren Prozess an"
+    },
+    "Consulting" : {
+      "head" : "Beratung",
+      "sub1" : "Navigieren Sie unter fachkundiger Anleitung durch die Technologielandschaft. Ihr Erfolg ist unsere Mission.",
+      "sub2" : "Digitale Geschäftsstrategie",
+      "sub3" : "Gestalten Sie Ihre Zukunft mit unseren digitalen Geschäftsstrategien neu. Von innovativen Plattformen bis hin zu analysegesteuertem Marketing entwickeln wir Strategien, die den Erfolg neu definieren.",
+      "sub4" : "“Durch digitale Horizonte navigieren, Wirkung entfachen.”",
+      "sub5" : "Betriebsstrategie",
+      "sub6" : "Steigern Sie Ihr Unternehmen mit unserer strategischen Note. Wir transformieren Kernabläufe für mehr Produktivität, Effizienz und Nachhaltigkeit. Arbeiten Sie mit uns für eine strategische Neuausrichtung zusammen.",
+      "sub7" : "“Betriebsabläufe transformieren, Exzellenz aufrechterhalten.“",
+      "sub8" : "Technologie- und Datenstrategie",
+      "sub9" : "Nutzen Sie mit unseren Strategien die Kraft von Technologie, Daten und Markteinblicken. Modernisieren Sie Systeme, steigern Sie die Agilität und erzielen Sie einen echten Einfluss auf Ihr Unternehmen.",
+      "sub10" : "“Innovation in der Strategie, Transformation in der Wirkung.“",
+      "sub11" : "Sehen Sie sich unseren Prozess an"
+    },
+    "Industries" : {
+      "head" : "Mit jedem Klick Innovationen freisetzen!",
+      "sub1" : "Sind Sie ein Unternehmer in der Ideenphase und haben Ihr brillantes Konzept auf einem zerknitterten Blatt Papier?",
+      "sub2" : "“Vom Funken zum Höhenflug: Ihre Tech-Odyssee beginnt hier!”",
+      "sub3" : "Verwandeln Sie Ihre Ideen mit New Tab Tech Lab in technische Wunder. Unsere Innovationskatalysatoren arbeiten mit Unternehmern in der Ideenphase zusammen und bieten Ideen-Workshops und Rapid Prototyping an, um aus Ihren Ideen eine glühende Erfolgsgeschichte zu machen.",
+      "sub4" : "Navigieren Sie durch die ersten Jahre Ihrer Organisation?",
+      "sub5" : "“Bauen Sie morgen, heute.“",
+      "sub6" : "Begeben Sie sich mit New Tab Tech Lab auf Ihre organisatorische Reise. Unsere Tech-Architekten vereinen Kreativität und Funktionalität, um eine Grundlage zu schaffen, die mit Ihrem Organisationsethos übereinstimmt und schon heute für den Aufbau von morgen bereit ist.",
+      "sub7" : "Sind Sie ein Traditionsunternehmen, das eine digitale Transformation anstrebt?",
+      "sub8" : "“Revolutionieren, digitalisieren, gedeihen.“",
+      "sub9" : "Steigern Sie Ihr Geschäft mit den transformativen Technologiestrategien von New Tab Tech Lab. Integrieren Sie nahtlos modernste Technologien, optimieren Sie Abläufe und verbessern Sie das Kundenerlebnis. Revolutionieren, digitalisieren und gedeihen Sie mit uns!",
+      "sub10" : "Branchen",
+      "indus1" : "Einzelhandel",
+      "indus2" : "FMCG",
+      "indus3" : "Gesundheitspflege",
+      "indus4" : "Herstellung",
+      "indus5" : "Anwaltskanzleien",
+      "indus6" : "E-commerce",
+      "indus7" : "Gebrauchsgüter",
+      "indus8" : "Landwirtschaft",
+      "indus9" : "F&B (Essen und Trinken)",
+      "indus10" : "Wirtschaftsprüfungsgesellschaften",
+      "indus11" : "Mode",
+      "indus12" : "HORECA",
+      "indus13" : "Immobilie",
+      "indus14" : "Schul-und Berufsbildung",
+      "indus15" : "Textil",
+      "indus16" : "Gastfreundschaft",
+      "indus17" : "Edelsteine ​und Schmuck",
+      "indus18" : "Tourismus"
+    },
+    "footer" : {
+      "foo1" : "Indien – Englisch",
+      "foo2" : "Kontakt",
+      "foo3" : "Erkunden",
+      "foo4" : "Um",
+      "foo5" : "Karriere",
+      "foo6" : "Beratung",
+      "foo7" : "Industrie",
+      "foo8" : "Lösungen",
+      "foo9" : "Unser Prozess",
+      "foo10" : "Folgen Sie uns",
+      "foo11" : "Facebook",
+      "foo12" : "Instagram",
+      "foo13" : "LinkedIn",
+      "foo14" : "© 2024 NEW TAB TECH LAB PRIVATE LIMITED",
+      "foo15" : "Seitenverzeichnis"
+    },
+    "contact" : {
+      "one" : "Lassen Sie uns verbinden",
+      "Two" : "Email Id",
+      "three" : "Telefonnummer",
+      "four" : "Registrierte Adresse",
+      "five" : "Name",
+      "six" : "Unternehmen",
+      "seven" : "Bezeichnung",
+      "eight" : "Industrie",
+      "nine" : "Email",
+      "ten" : "Telefon",
+      "eleven" : "Land",
+      "twell" : "Staat/Provinz",
+      "thirte" : "PIN-Code/Postleitzahl",
+      "fout" : "Nachricht",
+      "fifte" : "Einreichen"
+    },
+    "process" : {
+      "one" : "Unser Prozess: Für Lösungen",
+      "two" : "Ihre Reise, unsere Expertise: Nahtlos von Anfang bis Ende",
+      "three" : "Unser Prozess: Für Lösungen",
+      "four" : "Begeben Sie sich mit uns auf diese transformative Reise, bei der „Navigating Digital Horizons, Igniting Impact“ nicht nur ein Slogan, sondern ein Versprechen ist, das durch sorgfältige Analyse, strategische Planung und dynamische Umsetzung umgesetzt wird."
+    }
+  
+    
+  }
+}
